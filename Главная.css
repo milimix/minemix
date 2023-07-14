@@ -1,0 +1,602 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/minecraft-beautiful-desktop-wallpaper-preview.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1 .u-text-1 {
+  width: 366px;
+  margin: 114px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.875rem;
+  transition-duration: 1.5s;
+  text-shadow: 2px 0 0 rgba(0,0,0,0);
+  box-shadow: 0px 0px 0px rgba(0,0,0,0);
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: 7px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 266px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 204px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 153px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 331px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 120px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 3px;
+  }
+}
+
+.u-section-1 .u-text-2,
+.u-section-1 .u-text-2:before,
+.u-section-1 .u-text-2 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-1 .u-text-2.u-text-2.u-text-2:hover {
+  text-shadow: 0px 0px 0px rgba(128,128,128,0) !important;
+  box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
+  transform: translateX(0px) translateY(0px) scale(1.1) rotate(0deg) !important;
+  color: #f5d654 !important;
+}
+
+.u-section-1 .u-text-2 {
+  border-color: transparent !important;
+}
+
+.u-section-1 .u-text-2.u-text-2.u-text-2.hover {
+  text-shadow: 0px 0px 0px rgba(128,128,128,0) !important;
+  box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
+  transform: translateX(0px) translateY(0px) scale(1.1) rotate(0deg) !important;
+  color: #f5d654 !important;
+}
+
+.u-section-1 .u-text-2 {
+  border-color: transparent !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-text-2 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-text-2 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}.u-section-2 .u-sheet-1 {
+  min-height: 627px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  width: 1287px;
+  margin: 116px auto 11px -87px;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 500px;
+  background-image: url("images/29a0b495840516b71597e6674fe72256.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 500px;
+  background-image: none;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 0 30px;
+}
+
+.u-section-2 .u-text-1 {
+  text-shadow: 0px 0px 0px rgba(0,0,0,0);
+  transition-duration: 1.5s;
+  box-shadow: 0px 0px 0px rgba(0,0,0,0);
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: 7px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 48px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 499px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    position: relative;
+    width: 940px;
+    margin-right: 50px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 365px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 365px;
+  }
+
+  .u-section-2 .u-text-1 {
+    --animation-custom_in-translate_x: -200px;
+    --animation-custom_in-scale: 1;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 414px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 720px;
+    margin-right: 160px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 280px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 654px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 540px;
+    margin-right: 250px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 420px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 498px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 340px;
+    margin-right: 350px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 264px;
+  }
+}
+
+.u-section-2 .u-text-1,
+.u-section-2 .u-text-1:before,
+.u-section-2 .u-text-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-2 .u-text-1.u-text-1.u-text-1:hover {
+  transform: scale(1.12) translateX(0px) translateY(0px) !important;
+  box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
+  text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
+}
+
+.u-section-2 .u-text-1 {
+  border-color: transparent !important;
+}
+
+.u-section-2 .u-text-1.u-text-1.u-text-1.hover {
+  transform: scale(1.12) translateX(0px) translateY(0px) !important;
+  box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
+  text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
+}
+
+.u-section-2 .u-text-1 {
+  border-color: transparent !important;
+}
+
+.u-section-2 .u-container-layout:hover .u-text-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-2 .u-text-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 541px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin: 60px auto 60px 0;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 431px;
+  background-image: none;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-3 .u-text-1 {
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  box-shadow: 0px 0px 0px rgba(0,0,0,0);
+  text-shadow: 0px 0px 0px rgba(0,0,0,0);
+  margin: 6px 0 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1.5rem;
+  margin: 23px 0 0;
+}
+
+.u-section-3 .u-btn-1 {
+  margin: 20px auto 0;
+  padding: 13px 52px 14px 51px;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 431px;
+  background-image: url("images/Minecraft-Legends_2023-PromoTile-600x360.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+@media (max-width: 1399px) {
+  .u-section-3 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 355px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 355px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 272px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-text-2 {
+    font-size: 1rem;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 408px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-image-1 {
+    min-height: 257px;
+  }
+}
+
+.u-section-3 .u-text-1,
+.u-section-3 .u-text-1:before,
+.u-section-3 .u-text-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-3 .u-text-1.u-text-1.u-text-1:hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+  box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
+  text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
+}
+
+.u-section-3 .u-text-1 {
+  border-color: transparent !important;
+}
+
+.u-section-3 .u-text-1.u-text-1.u-text-1.hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+  box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
+  text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
+}
+
+.u-section-3 .u-text-1 {
+  border-color: transparent !important;
+}
+
+.u-section-3 .u-container-layout:hover .u-text-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-3 .u-text-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+} .u-section-4 {
+  background-image: none;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 541px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin: 60px auto 60px 0;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 431px;
+  background-image: url("images/minecraft-minecraft-dungeons-ocean-view-minecraft-dungeons-hidden-depths-4k-hd-wallpaper-preview.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 431px;
+  background-image: none;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-4 .u-text-1 {
+  transition-duration: 1.25s;
+  box-shadow: 0px 0px 0px rgba(0,0,0,0);
+  text-shadow: 0px 0px 0px rgba(0,0,0,0);
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: 29px auto 0;
+}
+
+.u-section-4 .u-text-2 {
+  font-size: 1.5rem;
+  margin: 34px 0 0;
+}
+
+.u-section-4 .u-btn-1 {
+  font-size: 1.25rem;
+  margin: 34px auto 0;
+}
+
+@media (max-width: 1399px) {
+  .u-section-4 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 355px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 355px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-image-1 {
+    min-height: 272px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-image-1 {
+    min-height: 408px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-text-2 {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 702px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: 57px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 257px;
+  }
+}
+
+.u-section-4 .u-text-1,
+.u-section-4 .u-text-1:before,
+.u-section-4 .u-text-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-4 .u-text-1.u-text-1.u-text-1:hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+  box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
+  color: #478ac9 !important;
+  text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
+}
+
+.u-section-4 .u-text-1 {
+  border-color: transparent !important;
+}
+
+.u-section-4 .u-text-1.u-text-1.u-text-1.hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+  box-shadow: 0px 0px 0px  rgba(0,0,0,0) !important;
+  color: #478ac9 !important;
+  text-shadow: 0px 0px 0px rgba(0,0,0,0) !important;
+}
+
+.u-section-4 .u-text-1 {
+  border-color: transparent !important;
+}
+
+.u-section-4 .u-container-layout:hover .u-text-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-4 .u-text-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+} .u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 181px;
+}
+
+.u-section-5 .u-text-1 {
+  margin: 0 auto;
+}
+
+.u-section-5 .u-social-icons-1 {
+  height: 75px;
+  min-height: 16px;
+  width: 264px;
+  min-width: 88px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 21px auto 42px;
+}
+
+.u-section-5 .u-icon-2 {
+  height: 100%;
+}
+
+.u-section-5 .u-icon-3 {
+  height: 100%;
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-text-1 {
+    margin-top: 60px;
+  }
+}
